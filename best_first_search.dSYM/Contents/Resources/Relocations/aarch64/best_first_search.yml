@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sudhan/Desktop/os Lab/best_first_search'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003A98, symSize: 0x3D8 }
+  - { offsetInCU: 0x33, offset: 0x33, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003A98, symSize: 0x3D8 }
+  - { offsetInCU: 0x54, offset: 0x54, size: 0x8, addend: 0x0, symName: _main.barray, symObjAddr: 0xC5C, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x69, size: 0x8, addend: 0x0, symName: _main.parray, symObjAddr: 0xCAC, symBinAddr: 0x100008050, symSize: 0x0 }
+...
